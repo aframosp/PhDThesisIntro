@@ -1,0 +1,23 @@
+# YAML 1.2
+---
+authors: 
+  -
+    family-names: "Ramos Padilla"
+    given-names: "Andres Felipe"
+    orcid: "https://orcid.org/0000-0002-4561-2452"
+cff-version: "1.1.0"
+keywords: 
+  - astronomy
+  - DiagISM
+  - Galaxies
+  - Evolution
+  - star formation
+  - ISM
+  - high-redshift
+  - lines and bands
+  - numerical
+license: "GPL-3.0"
+message: "If you use the data, figures or notebooks in this repository, please cite it using these metadata or citing the PhD thesis directly."
+repository-code: "https://github.com/aframosp/PhDThesisIntro"
+title: Repository for the introduction of the PhD Thesis "Diagnosing the ISM of galaxies and energetic processes in a cosmological context"
+...

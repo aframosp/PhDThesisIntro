@@ -1,6 +1,8 @@
-# Repository for the introduction of the PhD Thesis - Andres Felipe Ramos Padilla
+# Repository for the introduction of the PhD Thesis "Diagnosing the ISM of galaxies and energetic processes in a cosmological context"
 
-This repository contains data and code for the figures (and one table) presented in the introduction of the PhD Thesis. Each figure has its respective [Jupyter notebooks](/Notebooks). 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aframosp/PhDThesisIntro/HEAD)
+
+This repository contains data and code for the figures (and one table) presented in the introduction of the PhD Thesis ["Diagnosing the ISM of galaxies and energetic processes in a cosmological context"](https://research.rug.nl/en/publications/diagnosing-the-ism-of-galaxies-and-energetic-processes-in-a-cosmo). Each figure has its respective [Jupyter notebooks](/Notebooks). 
 
 ## Software requirements
 

@@ -2,15 +2,14 @@ name: Repro
 dependencies:
   - python==3.8.3
   - pip
+  - numpy==1.22.1
   - pip:
     - pandas==1.4.0
-    - numpy==1.22.1
     - astropy==5.0
     - autopep8==1.5.7
     - watermark==2.2.0
     - matplotlib==3.4.3
     - astroquery==0.4.4
     - scipy==1.7.1
-    - json==2.0.9
-    - sphviewer==1.2.4
-    - cv2==4.5.5
+    - py-sphviewer==1.2.4
+    - opencv-python==4.5.5.64

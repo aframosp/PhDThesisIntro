@@ -1,6 +1,7 @@
 # Repository for the introduction of the PhD Thesis "Diagnosing the ISM of galaxies and energetic processes in a cosmological context"
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aframosp/PhDThesisIntro/HEAD)
+[![DOI:10.33612/diss.251115545](https://img.shields.io/badge/DOI-10.33612/diss.251115545-dc002d.svg)](https://doi.org/10.33612/diss.251115545)
 
 This repository contains data and code for the figures (and one table) presented in the introduction of the PhD Thesis ["Diagnosing the ISM of galaxies and energetic processes in a cosmological context"](https://research.rug.nl/en/publications/diagnosing-the-ism-of-galaxies-and-energetic-processes-in-a-cosmo). Each figure has its respective [Jupyter notebooks](/Notebooks). 
 
@@ -10,6 +11,6 @@ The most important software packages to work with the files in this repository a
 
 ## Content
 
-* [Data](/Data): Most of the data related with the figures in the introduction.
+* [Data](/Data): Most of the data related with the figures in the introduction. Simulation-related data is not included in this repository due to its size.
 * [Figures](/Figures): Figures presented in the introduction.
 * [Notebooks](/Notebooks): Most of the code to generate figures (includes the extensions .ipynb and .html)
